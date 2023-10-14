@@ -14,9 +14,11 @@
 ---
 <h1 align='center'>Diferença de dois número</h1>
 
-<p align='center'>Esse é um exemplo de lógica em javascript</p>
-Usando o conceito do forof uma das formas de repetição com if   
-</p>
+<p align='center'> 
+  Esse é um exemplo de lógica em javascript</p>
+  <p align='center'>
+  Usando o conceito do forof uma das formas de repetição com if     
+  </p>
 
 <p align='center'>
  <a href='#sobre'>Sobre</a> |
